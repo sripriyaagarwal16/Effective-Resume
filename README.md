@@ -15,6 +15,48 @@ A resume is often your first impression—make it count. Below are detailed tips
 
 ---
 
+### 13 Resume writing tools that will help you to get your dream job.
+
+1) **Overleaf**: It is a really powerful tool for editing text, formulas and references. In addition to it, it has plenty of good templates. 
+👉 : [overleaf.com](https://www.overleaf.com/)
+
+2) **ResumeGenius** :- It provides all the resources you need to go from job application to job offer. 
+👉 : [resumegenius.com](https://resumegenius.com/)
+
+3) **Resume Io** :- It uses AI to analyze your resume and provide suggestions on how to improve it. 
+👉 : [resume.io](https://resume.io/)
+
+4) **EnhanceCV** :- Build a winning Enhancv resume in minutes! Professional templates approved by recruiters. 
+👉 : [enhancv.com](https://enhancv.com/)
+
+5) **Rezi** :- It uses AI to help you write a better CV. It offers features like a keyword scanner, ATS optimization, and customizable templates to make your CV stand out. 
+👉 : [rezi.ai](https://www.rezi.ai/)
+
+6) **Zety**: Resume Builder & Career Website :- It is an AI-powered CV builder that helps you create a professional-looking CV in minutes. 
+👉 : [zety.com](https://zety.com/)
+
+7) **CV Compiler** :- It is an AI-powered tool that compares your CV with the job description and provides personalized feedback on how to improve it. 
+👉 : [cvcompiler.com](https://cvcompiler.com/)
+
+8) **Visual CV** :- It is an AI-powered platform that helps you create a professional-looking CV. 
+👉 : [visualcv.com](https://www.visualcv.com/)
+
+9) **Jobscan** :- It uses AI to optimize your CV for applicant tracking systems (ATS). It analyzes your CV and provides suggestions on how to make it more ATS-friendly. 
+👉 : [jobscan.co](https://www.jobscan.co/)
+
+10) **CVMaker** :- It offers customizable templates and also provides content suggestions based on your input. 
+👉 : [cvmaker.com](https://www.cvmaker.com/)
+
+11) **Skillroads** - AI Resume Career Builder :- It uses AI to help you create a personalized CV. 
+👉 : [skillroads.com](https://skillroads.com/)
+
+12) **ResumeLab** :- It offers customizable templates and also provides content suggestions based on your input. 
+👉 : [resumelab.com/in](https://resumelab.com/in)
+
+13 ) **ResumeWorded** : It is an online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback. 
+👉: [resumeworded.com](https://resumeworded.com/)
+
+
 ### 🛠️ Formatting and Design
 
 * **Keep it Clean and Professional:** Use a simple, readable font (e.g., Calibri, Helvetica, Arial) in size 10–12.
