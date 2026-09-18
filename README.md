@@ -56,6 +56,10 @@ A resume is often your first impression—make it count. Below are detailed tips
 13 ) **ResumeWorded** : It is an online resume and LinkedIn grader instantly scores your resume and LinkedIn profile and gives you detailed feedback. 
 👉: [resumeworded.com](https://resumeworded.com/)
 
+14) **ResumeAI** :- Free ATS resume checker (3 checks/day anonymous, 10/day with a free account). Also publishes State of ATS 2026 (738 employers, 704 portal-verified; Workday share 37.9%).
+👉 : [withresumeai.com](https://withresumeai.com/)
+
+
 
 ### 🛠️ Formatting and Design
 
